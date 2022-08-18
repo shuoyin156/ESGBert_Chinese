@@ -4,6 +4,7 @@ ESG (Environmental, Social, Governance) Measurement and Evaluation
 
 ## 准备工作
 请在开始前在code文件夹下按如图顺序和结构新建文件夹，便于储存数据
+
 ![b69cb7b227368893d170d33b7186fb5](https://user-images.githubusercontent.com/91353090/185399491-deecb72d-7501-400e-acfb-6e570ad51937.jpg)
 
 ## 代理池配置
