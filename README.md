@@ -2,6 +2,10 @@
 
 ESG (Environmental, Social, Governance) Measurement and Evaluation
 
+## 准备工作
+请在开始前在code文件夹下按如图顺序和结构新建文件夹，便于储存数据
+![b69cb7b227368893d170d33b7186fb5](https://user-images.githubusercontent.com/91353090/185399491-deecb72d-7501-400e-acfb-6e570ad51937.jpg)
+
 ## 代理池配置
 参考了[github的项目](https://github.com/Python3WebSpider/ProxyPool),具体使用方法参考该B站[视频](https://www.bilibili.com/video/BV15v411G71f?spm_id_from=333.880.my_history.page.click)
 注意Redis最新版本稍有不同，比如在RESP中并没有redis-server.exe文件，建议从github上[下载](https://github.com/microsoftarchive/redis/releases)同时通过百度网盘下载旧版redis desktop manager的[exe文件](https://pan.baidu.com/s/1K5Yd1OQ8nAofCl79Hp8r1A),按照上述视频配置后运行run.py后即可在proxies:universal中得到zset形式的代理池
