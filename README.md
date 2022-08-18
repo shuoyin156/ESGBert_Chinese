@@ -2,6 +2,8 @@
 
 ESG (Environmental, Social, Governance) Measurement and Evaluation
 
+- [x] 完成基于雪球的ESG关键词评论数据库的建立
+
 ## 准备工作
 请在开始前在code文件夹下按如图顺序和结构新建文件夹，便于储存数据
 
