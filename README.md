@@ -1,4 +1,4 @@
-# ESG_txt_eval
+# ESGBert_Chinese
 
 ESG (Environmental, Social, Governance) Measurement and Evaluation
 
