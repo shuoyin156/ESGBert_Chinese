@@ -1,0 +1,21 @@
+ssh://mrwu@222.22.66.226:22/home2/mrwu/anaconda3/bin/python -u /tmp/pycharm_project_521/main.py
+Some weights of the model checkpoint at bert-base-chinese were not used when initializing BertModel: ['cls.seq_relationship.weight', 'cls.predictions.decoder.weight', 'cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Some weights of the model checkpoint at bert-base-chinese were not used when initializing BertModel: ['cls.seq_relationship.weight', 'cls.predictions.decoder.weight', 'cls.predictions.bias', 'cls.predictions.transform.dense.bias', 'cls.predictions.transform.LayerNorm.bias', 'cls.seq_relationship.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.LayerNorm.weight']
+- This IS expected if you are initializing BertModel from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertModel from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+Epoch 1/5: Train Loss=0.544, Train Acc=0.658, Val Loss=0.566, Val Acc=0.816
+Test Loss: 0.566, Test Acc: 0.816
+Epoch 2/5: Train Loss=0.562, Train Acc=0.782, Val Loss=0.469, Val Acc=0.816
+Test Loss: 0.469, Test Acc: 0.816
+Epoch 3/5: Train Loss=0.453, Train Acc=0.808, Val Loss=0.351, Val Acc=0.898
+Test Loss: 0.351, Test Acc: 0.898
+Epoch 4/5: Train Loss=0.392, Train Acc=0.876, Val Loss=0.347, Val Acc=0.918
+Test Loss: 0.347, Test Acc: 0.918
+Epoch 5/5: Train Loss=0.351, Train Acc=0.855, Val Loss=0.274, Val Acc=0.898
+Test Loss: 0.274, Test Acc: 0.898
+Text: 燕谷坊集团作为国家农业产业化重点龙头企业，积极实践“碳达峰”和“碳中和”时代使命。深入围绕“低碳农业、有机农业、绿色农业”，全产业链减碳。从产业上游推广“育种技术创新，绿色有机栽培技术推广，燕麦治沙。燕谷坊集团燕麦种植面积50万亩，促进大规模土地绿化行动进一步推进，加速碳减排协调实现；在数字化、智能化、科技化的引领下，产业中游深入开发燕麦全谷物加工链，不浪费燕麦一点，减少从良田到餐桌的食品损失，共同耕耘“无形良田”，利用数字化、智能化技术打造全谷物加工生产线，提高生产资源利用效率，减少温室气体排放；推动工业下游精心打造健康美味的绿色食品，获得国家绿色食品认证，促进绿色消费，发展绿色经济。
+Sentiment: Positive, Probability: 0.910
+
+Process finished with exit code 0
