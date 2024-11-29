@@ -3,7 +3,7 @@
 ESG (Environmental, Social, Governance) Measurement and Evaluation
 
 - [x] 完成基于雪球的ESG关键词评论数据库的建立，主要收集上市公司的ESG相关资讯
-- [x] 完成数据库的ESG咨询文本情感判断和ESG评级
+- [x] 完成数据库的ESG咨询文本情感判断和ESG评级（代码中省略了save_model.pth）
 
 ## 准备工作
 请在开始前在code文件夹下按如图顺序和结构新建文件夹，便于储存数据
